@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was made using ReactJS.
+
+It is a wishlist app which presents users its list of wishes.
+
+One can add, edit, mark done and delete  wishes too.
+
+I have used Reactstrap and bootstrap along with React-icons in it to give it a good visible UI.
+
+I have used modals from Reactstrap, which would give out a pop up window to add details of a wish.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
