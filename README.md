@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Here's a sample of this app : https://wishlist-gilt.vercel.app/
+
+view:
+![image](https://user-images.githubusercontent.com/98086953/175518888-dbd08ec4-dab7-4672-aa79-e916b4ca36e7.png)
+
+
 This project was made using ReactJS.
 
 It is a wishlist app which presents users its list of wishes.
