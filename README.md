@@ -18,7 +18,8 @@ One can add, edit, mark done and delete  wishes too.
 I have used Reactstrap and bootstrap along with React-icons in it to give it a good visible UI.
 
 I have used modals from Reactstrap, which would give out a pop up window to add details of a wish.
-![image](https://user-images.githubusercontent.com/98086953/175517856-dc768d0b-0984-44c3-8c8f-f05e8f842c28.png)
+![image](https://user-images.githubusercontent.com/98086953/175618412-b819978c-3e88-4494-befa-4747a08e2d82.png)
+
 
 
 Local Storage 
