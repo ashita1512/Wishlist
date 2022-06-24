@@ -11,6 +11,14 @@ One can add, edit, mark done and delete  wishes too.
 I have used Reactstrap and bootstrap along with React-icons in it to give it a good visible UI.
 
 I have used modals from Reactstrap, which would give out a pop up window to add details of a wish.
+![image](https://user-images.githubusercontent.com/98086953/175517856-dc768d0b-0984-44c3-8c8f-f05e8f842c28.png)
+
+
+Local Storage 
+
+Whenever we create or add a wish we need these to be stored on the pages because on each refresh click it’ll vanish. So for this every web application is being stored in some storage available (we can have its access from inspect and then application right where the console is located). Here I have used local storage. In short, a local storage object allows us to save value pairs in the browser.
+![image](https://user-images.githubusercontent.com/98086953/175518218-ee4c5f49-406a-4d4f-9873-09fc3c9c46ba.png)
+
 
 
 
