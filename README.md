@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Here's a sample of this app : https://wishlist-gilt.vercel.app/
 
 view:
+
+
 ![image](https://user-images.githubusercontent.com/98086953/175996970-c2bebe09-7110-4f96-bab0-523d9b2d7999.png)
 
 
